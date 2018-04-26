@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page2.html",
+    "currentPage": "page5.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 33,
     "versionPublish": "4.7.2",
@@ -1821,7 +1821,7 @@
         }
       ]
     },
-    "page5.html": {
+    "page4.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Links - Project Sources",
@@ -2260,7 +2260,7 @@
         }
       ]
     },
-    "page6.html": {
+    "page5.html": {
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Links - Wikipedia",
